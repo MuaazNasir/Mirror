@@ -1,4 +1,5 @@
 {
+  "name": "mirror-server",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",
