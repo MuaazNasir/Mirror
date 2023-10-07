@@ -2,6 +2,8 @@
 
 this is the mirror's server that is the backend part for APIs
 
+**Written by Muaaz Nasir**
+
 ## Environmet Variables
 
 

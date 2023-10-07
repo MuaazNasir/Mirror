@@ -28,7 +28,7 @@ Mirror is a realtime open-source chat application with image and text messages, 
 Clone this project by 
 
 ```
-git clone https://github.com/MuaazNasir/mirror
+git clone https://github.com/MuaazNasir/Mirror
 ```
 open it by 
 ```
