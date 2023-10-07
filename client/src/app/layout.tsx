@@ -13,7 +13,7 @@ import Release from '@/components/events/Release';
 import { useEffect, useState } from 'react';
 import SmallDevice from '@/components/events/SmallDevice';
 
-export const metadata = {
+const metadata = {
     title: 'MIRROR',
     description: 'JUST A MIRROR',
 }

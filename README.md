@@ -4,6 +4,9 @@
 Mirror is a realtime open-source chat application with image and text messages, and video , voice calls
 
 
+**Written by Muaaz Nasir**
+
+
 ## Authors
 
 - [@MuaazNasir](https://www.github.com/MuaazNasir)
