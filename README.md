@@ -47,10 +47,10 @@ cd .\client\
 ```
 cd .\server\
 ```
+> For further server information go to server's Readme.md
 
 
 [![Watch the demo video](https://i.stack.imgur.com/Vp2cE.png)](https://www.youtube.com/watch?v=hoUF-7a68X4)
 
 
 
-> For further server information go to server's Readme.md
