@@ -27,12 +27,6 @@ this is the mirror's client part that will be displayed to the user
 | `NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME` | `string` | **Required**.  cloudinary cloud name|
 | `NEXT_PUBLIC_CLOUDINARY_API_KEY` | `string` | **Required**.  cloudinary api key |
 | `NEXT_PUBLIC_CLOUDINARY_UPLOAD_PRESET` | `string` | **Required**.  cloudinary upload preset |
-| `NEXT_PUBLIC_FIREBASE_API_KEY` | `string` | **Required**.  firebase api key |
-| `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | `string` | **Required**.  firebase auth domain |
-| `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | `string` | **Required**.  firebase project id |
-| `NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET` | `string` | **Required**.  firebase storage bucket |
-| `NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID` | `string` | **Required**.  firebase messaging sender id |
-| `NEXT_PUBLIC_FIREBASE_APP_ID` | `string` | **Required**.  firebase app id |
 
 > signup to [Cloudinary](https://cloudinary.com) and create a project and get the *cloud-name*, *api-key* and *upload preset*  from it.
 
