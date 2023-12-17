@@ -2,8 +2,9 @@
   "name": "mirror-server",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "build": "npm i"
+    "start": "node app.js",
+    "build": "npm i",
+    "dev" : "nodemon app.js"
   },
   "dependencies": {
     "@prisma/client": "^5.0.0",
